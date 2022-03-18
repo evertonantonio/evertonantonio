@@ -1,2 +1,3 @@
 - 👋 Oi, eu sou Everton Antônio aluno de sistemas para internet na UNICAP, aqui coloco meus repositorios tando da faculdade como de curso que faço pela internet
 - entrei na unicap através de um projeto da prefeitura do Recife com o porto digital.
+- Linkedln: linkedin.com/in/everton-paiva-789a061a4
